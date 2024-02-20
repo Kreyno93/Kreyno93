@@ -14,7 +14,11 @@ Who knew what time it was when the first clock was made? 👀
 ![](https://github-profile-trophy.vercel.app/?username=Kreyno93&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### Snake
-![snake animation](https://github.com/Kreyno93/Kreyno93/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
