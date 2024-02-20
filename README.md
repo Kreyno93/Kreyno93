@@ -13,8 +13,6 @@ Who knew what time it was when the first clock was made? 👀
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kreyno93&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Snake
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
